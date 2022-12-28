@@ -1,6 +1,6 @@
 {
   "name": "Gooleカレンダースクリーンショット",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "description": "Googleカレンダーの予定名を隠してからスクリーンショットを撮影します",
   "icons": {
