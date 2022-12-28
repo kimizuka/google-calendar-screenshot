@@ -1,5 +1,5 @@
 {
-  "name": "google-calendar-screenshot",
+  "name": "Gooleカレンダースクリーンショット",
   "version": "1.0",
   "manifest_version": 3,
   "description": "Googleカレンダーの予定名を隠してからスクリーンショットを撮影します",
